@@ -1,8 +1,9 @@
 # Count-Numers-with-Unique-Digits
 My clean solution in JS , using DP
 
+The challenge:
 
-Given an integer n, return the count of all numbers with unique digits, x, where 0 <= x < 10n.
+"Given an integer n, return the count of all numbers with unique digits, x, where 0 <= x < 10n.
 
  
 
@@ -19,4 +20,4 @@ Output: 1
 
 Constraints:
 
-0 <= n <= 8
+0 <= n <= 8"
